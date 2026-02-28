@@ -1,6 +1,6 @@
-# 🏄 Be Cool Surf School — Management System
+# 🏄 Ama Surf School — Management System
 
-A complete management system for **Be Cool Surf School** in Weligama, Sri Lanka.
+A complete management system for **Ama Surf School** in Weligama, Sri Lanka.
 
 ## Features
 
@@ -72,4 +72,4 @@ npm run preview
 
 ---
 
-Built for Be Cool Surf School, Weligama, Sri Lanka 🇱🇰
+Built for Ama Surf School, Weligama, Sri Lanka 🇱🇰
